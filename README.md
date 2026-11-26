@@ -332,3 +332,7 @@ team leader (best attempt counts).
 MIT — see [LICENSE](LICENSE). The write-up and results in this repository are the
 author's own; the e-Yantra simulation and competition source are e-Yantra, IIT Bombay
 intellectual property and are not included here.
+
+## Contributors
+
+- [Vedant Gadekar](https://github.com/Vedant04-08)
